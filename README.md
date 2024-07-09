@@ -1,6 +1,9 @@
-## Hi there 👋
-
-testando novos updates
+## Olá, meu nome é Felipe
+<div></div>
+## Contato
+<a href="https://www.linkedin.com/in/weslley-batista-113885163">
+  <img alt="" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
 <!--
 **felipedurant/felipedurant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
